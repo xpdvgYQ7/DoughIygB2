@@ -1,0 +1,19 @@
+{
+  "name": "doughiygb2",
+  "version": "1.0.0",
+  "description": "bake delicious bread",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpdvgYQ7/DoughIygB2.git"
+  },
+  "author": "xpdvgYQ7 <OzjMVo20QmLiyfdRQDHRHQ5lPpsNPrENdX7I1Cnq4L8=.ed25519>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpdvgYQ7/DoughIygB2/issues"
+  },
+  "homepage": "https://github.com/xpdvgYQ7/DoughIygB2#readme"
+}
